@@ -18,9 +18,7 @@
 	lmms
 	spotify
 	sublime
-	adobe flash 
 	office 365
-	nexus mode manager # for skyrim
 
 # Cracked 
 	adobe premier
@@ -34,7 +32,6 @@
 	halflife 2
 	darksouls 
 	chivalry metal
-	skyrim
 	sundred
 	memoria
 	starbound
@@ -44,4 +41,3 @@
 
 # Cracked Games
 	rise of the tomb raider
-	
