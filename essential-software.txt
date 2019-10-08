@@ -1,0 +1,27 @@
+# Application
+	foobar2000
+	rufus
+	scpsever # ps3 remote drivers
+	better ds3 # ps3 remote drivers
+	cdburnerxp
+	formatfactory
+	audacity
+	deluge
+	discord
+	svp # madvr & mpc-hc included
+	yacreader
+	steam 
+	epicgames
+	battlenet
+	uplay
+	firefox
+	lmms
+	spotify
+	sublime
+	adobe flash 
+	office 365
+
+# Cracked 
+	adobe premier
+		illistrator
+		photoshop
