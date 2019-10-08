@@ -20,8 +20,28 @@
 	sublime
 	adobe flash 
 	office 365
+	nexus mode manager # for skyrim
 
 # Cracked 
 	adobe premier
 		illistrator
 		photoshop
+
+# Steam Games
+	warframe
+	destiney 2
+	rainbow 6 seige
+	halflife 2
+	darksouls 
+	chivalry metal
+	skyrim
+	sundred
+	memoria
+	starbound
+
+# Epic Games
+	rebal galaxy outlaw
+
+# Cracked Games
+	rise of the tomb raider
+	
