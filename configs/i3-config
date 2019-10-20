@@ -1094,4 +1094,4 @@ client.urgent           #d42121 #d42121 #f7f7f7 #d42121
 #####################################################################################################################
 
 exec firefox
-exec_always feh --bg-scale /home/isoba/Pictures/wallpaper2.jpg
+exec_always feh --bg-scale /home/isoba/Pictures/CyberPunk/cyberpunk-n.jpg
