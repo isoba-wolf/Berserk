@@ -21,9 +21,10 @@
 	office 365
 
 # Cracked 
-	adobe premier
-		illistrator
-		photoshop
+	adobe   premier
+	''	illistrator
+	''	photoshop
+	4k video downloader
 
 # Steam Games
 	warframe
